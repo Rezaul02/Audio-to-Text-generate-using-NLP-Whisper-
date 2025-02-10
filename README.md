@@ -20,9 +20,9 @@ Supports multiple languages (e.g., English, Spanish, French, etc.).
 Automatic cleanup of uploaded files after processing.
 
 ## 📂 Project Structure
-├── main.py                ### FastAPI application and Whisper integration
-├── uploads/               ### Directory to temporarily store uploaded files
-├── README.md              ### Project documentation
+├── app.py                
+├── uploads/           
+├── README.md             
 ## 🧩 Step-by-Step Explanation
 ### 1. Setup and Dependencies
 Install required libraries:
